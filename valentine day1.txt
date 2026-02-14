@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+background-image:url("https://slidescorner.com/wp-content/uploads/2023/01/02-Aesthetic-Valentines-Day-Wallpapers-With-Cute-Hearts-Free-For-PPT-Backgrounds-by-SlidesCorner.com_.jpg");
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:100% 100%; }
+.name{
+text-align:center;
+padding:10px;
+margin:250px;
+color:rgb(141,2,31);
+letter-spacing:1px;
+word-spacing:auto;
+font-size:40px;
+font-family: "Sofia", sans-serif;
+text-shadow: 3px 3px 3px #ababab;
+}
+.day{
+margin:6px;
+text-align:center;
+color:black;
+background-color:white;
+font-size:18px;
+border-radius:6px;
+position:relative;
+bottom:170px;
+left:500px;
+border: 2px solid #2E3135;
+
+}
+.a{
+margin:6px;
+text-align:center;
+color:black;
+background-color:white;
+font-size:18px;
+border-radius:6px;
+position:relative;
+bottom:170px;
+left:600px;
+border: 2px solid #2E3135;
+}
+button:hover{
+color:white;
+background-color:#FC6C85;
+}
+</style>
+<body>
+<h1 id=name class=name> Will you be my Valentine</h1>
+<div>
+<a href="file:///C:/Users/Shraddha/OneDrive/%E6%96%87%E6%A1%A3/yes.html" target="_blank"><button class=day> Yes </button></a>
+<a href="file:///C:/Users/Shraddha/OneDrive/%E6%96%87%E6%A1%A3/no.html" target="_blank"><button class=a> No </button></a>
+</div>
+
+
+
+</body>
+</head>
+</html>
